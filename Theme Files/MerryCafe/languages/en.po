@@ -1,0 +1,857 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MerryCafe\n"
+"POT-Creation-Date: 2016-08-12 00:59+0500\n"
+"PO-Revision-Date: 2016-08-12 01:05+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:23
+msgid "Page you are looking for was not found."
+msgstr ""
+
+#: comments.php:16
+msgctxt "comments title"
+msgid "One comment"
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:36 inc/merrycode/merry_comments.php:16
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:36 inc/merrycode/merry_comments.php:16
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:53 inc/merrycode/merry_comments.php:33
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:56 inc/merrycode/merry_comments.php:36
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:95
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:105
+msgid "Page"
+msgstr ""
+
+#: functions.php:116
+msgid "Blog"
+msgstr ""
+
+#: functions.php:126
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: functions.php:212
+msgid "Page Title Featured Image"
+msgstr ""
+
+#: functions.php:217 functions.php:1557
+msgid "Price Tag"
+msgstr ""
+
+#: functions.php:270
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:278
+msgctxt "Post Type General Name"
+msgid "Menu Items"
+msgstr ""
+
+#: functions.php:279
+msgctxt "Post Type Singular Name"
+msgid "Menu Item"
+msgstr ""
+
+#: functions.php:280
+msgid "Menu Items"
+msgstr ""
+
+#: functions.php:281
+msgid "All Menu Items"
+msgstr ""
+
+#: functions.php:282
+msgid "View Menu Item"
+msgstr ""
+
+#: functions.php:283
+msgid "Add New Menu Item"
+msgstr ""
+
+#: functions.php:284 functions.php:373
+msgid "Add New"
+msgstr ""
+
+#: functions.php:285
+msgid "Edit Menu Item"
+msgstr ""
+
+#: functions.php:286
+msgid "Update Menu Item"
+msgstr ""
+
+#: functions.php:287
+msgid "Search Menu Item"
+msgstr ""
+
+#: functions.php:288 functions.php:377
+msgid "Not Found"
+msgstr ""
+
+#: functions.php:289 functions.php:378
+msgid "Not Found In Trash"
+msgstr ""
+
+#: functions.php:290
+msgid "Menu Image"
+msgstr ""
+
+#: functions.php:291
+msgid "Set menu image"
+msgstr ""
+
+#: functions.php:298
+msgid "menu item"
+msgstr ""
+
+#: functions.php:299
+msgid "Items for food menu"
+msgstr ""
+
+#: functions.php:331
+msgctxt "taxonomy general name"
+msgid "Menu Categories"
+msgstr ""
+
+#: functions.php:332
+msgctxt "taxonomy singular name"
+msgid "Menu Category"
+msgstr ""
+
+#: functions.php:333
+msgid "Search Menu Categories"
+msgstr ""
+
+#: functions.php:334
+msgid "Popular Menu Categories"
+msgstr ""
+
+#: functions.php:335
+msgid "All Menu Categories"
+msgstr ""
+
+#: functions.php:338
+msgid "Edit Menu Category"
+msgstr ""
+
+#: functions.php:339
+msgid "Update Menu Category"
+msgstr ""
+
+#: functions.php:340
+msgid "Add New Menu Category"
+msgstr ""
+
+#: functions.php:341
+msgid "New Menu Category"
+msgstr ""
+
+#: functions.php:342
+msgid "Separate menu categories with commas"
+msgstr ""
+
+#: functions.php:343
+msgid "Add or remove writers"
+msgstr ""
+
+#: functions.php:344
+msgid "Choose from the most used menu categories"
+msgstr ""
+
+#: functions.php:345
+msgid "No menu categories found."
+msgstr ""
+
+#: functions.php:346
+msgid "Menu Categories"
+msgstr ""
+
+#: functions.php:367
+msgctxt "Post Type General Name"
+msgid "Slides"
+msgstr ""
+
+#: functions.php:368
+msgctxt "Post Type Singular Name"
+msgid "Slide"
+msgstr ""
+
+#: functions.php:369
+msgid "Home Slides"
+msgstr ""
+
+#: functions.php:370
+msgid "All Slides"
+msgstr ""
+
+#: functions.php:371
+msgid "View Slide"
+msgstr ""
+
+#: functions.php:372
+msgid "Add New Slide"
+msgstr ""
+
+#: functions.php:374
+msgid "Edit Slide"
+msgstr ""
+
+#: functions.php:375
+msgid "Update Slide"
+msgstr ""
+
+#: functions.php:376
+msgid "Search Slide"
+msgstr ""
+
+#: functions.php:379
+msgid "Slide Image"
+msgstr ""
+
+#: functions.php:380
+msgid "Set slide image"
+msgstr ""
+
+#: functions.php:387
+msgid "slides"
+msgstr ""
+
+#: functions.php:388
+msgid "Slides For Homepage Slider"
+msgstr ""
+
+#: functions.php:444
+msgid "Defaults"
+msgstr ""
+
+#: functions.php:460
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:475
+msgid "Secondary Color"
+msgstr ""
+
+#: functions.php:487
+msgid "Default Page Title Image"
+msgstr ""
+
+#: functions.php:496
+msgid "Posts"
+msgstr ""
+
+#: functions.php:505
+msgid "Post page title image"
+msgstr ""
+
+#: functions.php:520
+msgid "Single blog post page title text"
+msgstr ""
+
+#: functions.php:533
+msgid "Post title color"
+msgstr ""
+
+#: functions.php:549
+msgid "Post meta text color"
+msgstr ""
+
+#: functions.php:565
+msgid "Post meta link color"
+msgstr ""
+
+#: functions.php:581
+msgid "Post meta link hover color"
+msgstr ""
+
+#: functions.php:597
+msgid "Blog content text color"
+msgstr ""
+
+#: functions.php:607
+msgid "Pages"
+msgstr ""
+
+#: functions.php:616
+msgid "Default page title image"
+msgstr ""
+
+#: functions.php:631
+msgid "Page title color"
+msgstr ""
+
+#: functions.php:647
+msgid "Page content text color"
+msgstr ""
+
+#: functions.php:664
+msgid "Blog 'Read More' button color"
+msgstr ""
+
+#: functions.php:674
+msgid "Contact"
+msgstr ""
+
+#: functions.php:687
+msgid "Contact Form 7 Shortcode"
+msgstr ""
+
+#: functions.php:696
+msgid "Food Menu"
+msgstr ""
+
+#: functions.php:708
+msgid "Menu category title color"
+msgstr ""
+
+#: functions.php:722
+msgid "Menu item title color"
+msgstr ""
+
+#: functions.php:737
+msgid "Menu item description color"
+msgstr ""
+
+#: functions.php:750
+msgid "Header"
+msgstr ""
+
+#: functions.php:751
+msgid "Header Options"
+msgstr ""
+
+#: functions.php:757
+msgid "Home"
+msgstr ""
+
+#: functions.php:758
+msgid "Hope Options"
+msgstr ""
+
+#: functions.php:764
+msgid "Footer"
+msgstr ""
+
+#: functions.php:765
+msgid "Footer Options"
+msgstr ""
+
+#: functions.php:770
+msgid "Top Header"
+msgstr ""
+
+#: functions.php:779
+msgid "Primary Header"
+msgstr ""
+
+#: functions.php:786
+msgid "Footer Widgets Section"
+msgstr ""
+
+#: functions.php:793 functions.php:894
+msgid "Footer Lower Section"
+msgstr ""
+
+#: functions.php:807
+msgid "Footer Lower Background Color"
+msgstr ""
+
+#: functions.php:823
+msgid "Footer Lower Text Color"
+msgstr ""
+
+#: functions.php:838
+msgid "Footer Lower Text"
+msgstr ""
+
+#: functions.php:853 functions.php:968
+msgid "Background Color"
+msgstr ""
+
+#: functions.php:869
+msgid "Footer Widgets Headings Color"
+msgstr ""
+
+#: functions.php:884
+msgid "Footer Widgets Text Color"
+msgstr ""
+
+#: functions.php:906
+msgid "Choose Header Type"
+msgstr ""
+
+#: functions.php:926
+msgid "Header background color"
+msgstr ""
+
+#: functions.php:947
+msgid "Show Top Header"
+msgstr ""
+
+#: functions.php:984
+msgid "Top Header Text"
+msgstr ""
+
+#: functions.php:1007
+msgid "Top Header Text Color"
+msgstr ""
+
+#: functions.php:1021
+msgid "Top Header Facebook Link"
+msgstr ""
+
+#: functions.php:1033
+msgid "Top Header Twitter Link"
+msgstr ""
+
+#: functions.php:1044
+msgid "Top Header Instagram Link"
+msgstr ""
+
+#: functions.php:1067
+msgid "Top Header Icon Color"
+msgstr ""
+
+#: functions.php:1077
+msgid "Menu"
+msgstr ""
+
+#: functions.php:1102
+msgid "Item Color"
+msgstr ""
+
+#: functions.php:1126
+msgid "Highlighted Item Color"
+msgstr ""
+
+#: functions.php:1150
+msgid "Highlighted Item Background Color"
+msgstr ""
+
+#: functions.php:1171
+msgid "Desktop Menu Font Size (in px)"
+msgstr ""
+
+#: functions.php:1195
+msgid "Menu background color (for header with logo in center"
+msgstr ""
+
+#: functions.php:1219
+msgid "Mobile Menu Icon Color"
+msgstr ""
+
+#: functions.php:1243
+msgid "Mobile menu background color"
+msgstr ""
+
+#: functions.php:1253
+msgid "Typography"
+msgstr ""
+
+#: functions.php:1310 functions.php:1319
+msgid "Logo"
+msgstr ""
+
+#: functions.php:1328
+msgid "Retina display logo"
+msgstr ""
+
+#: functions.php:1340
+msgid "Retina logo width in px"
+msgstr ""
+
+#: functions.php:1352 functions.php:1361
+msgid "Favicon"
+msgstr ""
+
+#: functions.php:1369
+msgid "Above The Fold (Slider area)"
+msgstr ""
+
+#: functions.php:1381
+msgid "Choose content type"
+msgstr ""
+
+#: functions.php:1395
+msgid "Above the fold image"
+msgstr ""
+
+#: functions.php:1414
+msgid "Home slider heading background color"
+msgstr ""
+
+#: functions.php:1436
+msgid "Home slider description background color"
+msgstr ""
+
+#: functions.php:1447
+msgid "Featured Section"
+msgstr ""
+
+#: functions.php:1480
+msgid "Show featured section"
+msgstr ""
+
+#: functions.php:1493
+msgid "Featured Image (Required)"
+msgstr ""
+
+#: functions.php:1507
+msgid "Title (Required)"
+msgstr ""
+
+#: functions.php:1519
+msgid "Title Color"
+msgstr ""
+
+#: functions.php:1531
+msgid "Sub-Title"
+msgstr ""
+
+#: functions.php:1544
+msgid "Description (Required)"
+msgstr ""
+
+#: functions.php:1569
+msgid "Recommended Section"
+msgstr ""
+
+#: functions.php:1589
+msgid "Show recommended section"
+msgstr ""
+
+#: functions.php:1599
+msgid "Recommended Section Heading"
+msgstr ""
+
+#: functions.php:1616
+msgid "Recommended Section Heading Background Color"
+msgstr ""
+
+#: functions.php:1632
+msgid "Recommended Section Heading Color"
+msgstr ""
+
+#: functions.php:1648
+msgid "Recommended Item Title Color"
+msgstr ""
+
+#: functions.php:1663
+msgid "Recommended Item Description Color"
+msgstr ""
+
+#: functions.php:1679
+msgid "Recommended Item Price Tag Color"
+msgstr ""
+
+#: functions.php:1699
+msgid "First Recommended Item"
+msgstr ""
+
+#: functions.php:1716
+msgid "Second Recommended Item"
+msgstr ""
+
+#: functions.php:1734
+msgid "Third Recommended Item"
+msgstr ""
+
+#: functions.php:1743
+msgid "Event Section"
+msgstr ""
+
+#: functions.php:1762
+msgid "Show event section"
+msgstr ""
+
+#: functions.php:1772
+msgid "Event Background Image"
+msgstr ""
+
+#: functions.php:1787
+msgid "Event Section Title Text"
+msgstr ""
+
+#: functions.php:1801
+msgid "Event Section Subtitle Text"
+msgstr ""
+
+#: functions.php:1814
+msgid "Event Section Detail Text"
+msgstr ""
+
+#: functions.php:1828
+msgid "Event Section Date/Time "
+msgstr ""
+
+#: functions.php:1842
+msgid "Event Section Link"
+msgstr ""
+
+#: functions.php:1859
+msgid "Event Section Title Text Color"
+msgstr ""
+
+#: functions.php:1875
+msgid "Event Section Subtitle Text Color"
+msgstr ""
+
+#: functions.php:1890
+msgid "Event Section Detail Text Color"
+msgstr ""
+
+#: functions.php:1907
+msgid "Event Section Date/Time Box Color"
+msgstr ""
+
+#: functions.php:1918
+msgid "Content Boxes Section"
+msgstr ""
+
+#: functions.php:1938
+msgid "Page content"
+msgstr ""
+
+#: functions.php:1957
+msgid "Show page content"
+msgstr ""
+
+#: functions.php:1967
+msgid "First Content Box Title"
+msgstr ""
+
+#: functions.php:1981
+msgid "First Content Box Image"
+msgstr ""
+
+#: functions.php:1996
+msgid "First Content Box Description"
+msgstr ""
+
+#: functions.php:2010
+msgid "First Content Box Button Text"
+msgstr ""
+
+#: functions.php:2023
+msgid "First Content Box Button URL"
+msgstr ""
+
+#: functions.php:2039
+msgid "First Content Box Heading Color"
+msgstr ""
+
+#: functions.php:2054
+msgid "First Content Box Heading Background Color"
+msgstr ""
+
+#: functions.php:2070
+msgid "First Content Box Text Color"
+msgstr ""
+
+#: functions.php:2086
+msgid "First Content Box  Button Text & Border Color"
+msgstr ""
+
+#: functions.php:2102
+msgid "First Content Box Button Fill Color"
+msgstr ""
+
+#: functions.php:2114
+msgid "Second Content Box Title"
+msgstr ""
+
+#: functions.php:2128
+msgid "Second Content Box Image"
+msgstr ""
+
+#: functions.php:2143
+msgid "Second Content Box Description"
+msgstr ""
+
+#: functions.php:2157
+msgid "Second Content Box Button Text"
+msgstr ""
+
+#: functions.php:2170
+msgid "Second Content Box Button URL"
+msgstr ""
+
+#: functions.php:2186
+msgid "Second Content Box Heading Color"
+msgstr ""
+
+#: functions.php:2201
+msgid "Second Content Box Heading Background Color"
+msgstr ""
+
+#: functions.php:2217
+msgid "Second Content Box Text Color"
+msgstr ""
+
+#: functions.php:2233
+msgid "Second Content Box  Button Text & Border Color"
+msgstr ""
+
+#: functions.php:2249
+msgid "Second Content Box Button Fill Color"
+msgstr ""
+
+#: functions.php:2262
+msgid "Third Content Box Title"
+msgstr ""
+
+#: functions.php:2276
+msgid "Third Content Box Image"
+msgstr ""
+
+#: functions.php:2291
+msgid "Third Content Box Description"
+msgstr ""
+
+#: functions.php:2305
+msgid "Third Content Box Button Text"
+msgstr ""
+
+#: functions.php:2318
+msgid "Third Content Box Button URL"
+msgstr ""
+
+#: functions.php:2334
+msgid "Third Content Box Heading Color"
+msgstr ""
+
+#: functions.php:2349
+msgid "Third Content Box Heading Background Color"
+msgstr ""
+
+#: functions.php:2365
+msgid "Third Content Box Text Color"
+msgstr ""
+
+#: functions.php:2381
+msgid "Third Content Box  Button Text & Border Color"
+msgstr ""
+
+#: functions.php:2397
+msgid "Third Content Box Button Fill Color"
+msgstr ""
+
+#: functions.php:2407
+msgid "Form Styles"
+msgstr ""
+
+#: functions.php:2424
+msgid "Buttons color"
+msgstr ""
+
+#: functions.php:2440
+msgid "Input fields border color"
+msgstr ""
+
+#: functions.php:2450 functions.php:2461
+msgid "Custom CSS"
+msgstr ""
+
+#: single.php:28 template-parts/posts-loop.php:17
+#: template-parts/posts-loop.php:34
+msgid "Posted by"
+msgstr ""
+
+#: single.php:28 template-parts/posts-loop.php:17
+#: template-parts/posts-loop.php:34
+msgid "on"
+msgstr ""
+
+#: single.php:28
+msgid "in"
+msgstr ""
+
+#: template-parts/page-title-bar-404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: template-parts/page-title-bar-search.php:16
+msgid "Search results for"
+msgstr ""
+
+#: template-parts/posts-loop.php:23 template-parts/posts-loop.php:40
+msgid "Read More"
+msgstr ""
+
+#: template-parts/posts-loop.php:56
+msgid "<"
+msgstr ""
+
+#: template-parts/posts-loop.php:57
+msgid ">"
+msgstr ""
+
+#: template-parts/posts-loop.php:68
+msgid "No posts found."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "MerryCafe"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://merrycode.com/merryrestaurant"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Premium Responsive Theme for Restaurants and Cafes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MerryCode"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://merrycode.com"
+msgstr ""
